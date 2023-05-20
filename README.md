@@ -12,7 +12,7 @@ The relationship between athletic performance and brain structure and function h
 
 [2] Investigate white matter connectivity differences between elite athletes and non-athletes using dMRI and tractography analysis in Python.
 
-[3] Explore the relationship between grey matter volume, white matter connectivity, and specific athletic skills (endurance, strength, agility). Goals of the project
+[3] Explore the relationship between grey matter volume, white matter connectivity, and specific athletic skills (endurance, strength, agility).
 
 ## Data and Tools to Use 
 Publicly available datasets on college-level athletes
