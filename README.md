@@ -16,6 +16,7 @@ The relationship between athletic performance and brain structure and function h
 
 ## Data and Tools to Use 
 Publicly available datasets on college-level athletes
+
 Python, FSLVBM, Nilearn, Dipy
 
 ## References
