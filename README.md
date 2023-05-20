@@ -19,6 +19,9 @@ Publicly available datasets on college-level athletes
 
 Python, FSLVBM, Nilearn, Dipy
 
+![BrainHack School logo](Images/images.jfif)
+![NCU logo](Images/images.png)
+
 ## References
 ### Tools / Tutorials 
 **FSLVBM**
