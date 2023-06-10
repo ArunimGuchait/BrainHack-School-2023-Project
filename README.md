@@ -18,13 +18,13 @@ The relationship between athletic performance and brain structure and function h
 **Date: 2023 June 10**
 
 ### Data Preprocessing
-MRI data have been preprocessed using FSL tools.
+> MRI data have been preprocessed using FSL tools.
 
-Voxel-Based Morphometry (VBM) Analysis
-Grey matter volume differences between athletes and non-athletes have been investigated using FSLVBM [FMRIB's Software Library - Voxel-Based Morphometry]
+### Voxel-Based Morphometry (VBM) Analysis
+> Grey matter volume differences between athletes and non-athletes have been investigated using FSLVBM [FMRIB's Software Library - Voxel-Based Morphometry]
 
-Vertex Analysis
-Automated segmentation of subcortical structures in the brain has been completed using FSL FIRST [a model-based segmentation/registration tool]
+### Vertex Analysis
+> Automated segmentation of subcortical structures in the brain has been completed using FSL FIRST [a model-based segmentation/registration tool]
 
 Things to do:
 dMRI Analysis in Python
