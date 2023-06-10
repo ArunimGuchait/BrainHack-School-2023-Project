@@ -15,7 +15,7 @@ The relationship between athletic performance and brain structure and function h
 [3] Explore the relationship between grey matter volume, white matter connectivity, and specific athletic skills (endurance, strength, agility).
 
 ## Project Progress
-**Date: 2023 June 10**
+```Date: 2023 June 10```
 
 ### Data Preprocessing
 > MRI data have been preprocessed using FSL tools.
