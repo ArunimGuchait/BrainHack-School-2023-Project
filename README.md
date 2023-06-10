@@ -17,18 +17,18 @@ The relationship between athletic performance and brain structure and function h
 ## Project Progress
 ```Date: 2023 June 10```
 
-### Data Preprocessing
+**Data Preprocessing**
 > MRI data have been preprocessed using FSL tools.
 
-### Voxel-Based Morphometry (VBM) Analysis
+**Voxel-Based Morphometry (VBM) Analysis**
 > Grey matter volume differences between athletes and non-athletes have been investigated using FSLVBM [FMRIB's Software Library - Voxel-Based Morphometry]
 
-### Vertex Analysis
+**Vertex Analysis**
 > Automated segmentation of subcortical structures in the brain has been completed using FSL FIRST [a model-based segmentation/registration tool]
 
-Things to do:
-dMRI Analysis in Python
-White matter connectivity will be explored using tractography methods implemented in Python-based tools such as Dipy and Nilearn.
+### Things to do:
+**dMRI Analysis in Python**
+> White matter connectivity will be explored using tractography methods implemented in Python-based tools such as Dipy and Nilearn.
 
 ## Data and Tools to Use 
 Publicly available dataset on college-level athletes
