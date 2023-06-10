@@ -14,8 +14,30 @@ The relationship between athletic performance and brain structure and function h
 
 [3] Explore the relationship between grey matter volume, white matter connectivity, and specific athletic skills (endurance, strength, agility).
 
+## Project Progress
+### Date: 2023 June 10
+
+### Data Preprocessing
+MRI data have been preprocessed using FSL tools.
+
+Voxel-Based Morphometry (VBM) Analysis
+Grey matter volume differences between athletes and non-athletes have been investigated using FSLVBM [FMRIB's Software Library - Voxel-Based Morphometry]
+
+Vertex Analysis
+Automated segmentation of subcortical structures in the brain has been completed using FSL FIRST [a model-based segmentation/registration tool]
+
+Things to do:
+dMRI Analysis in Python
+White matter connectivity will be explored using tractography methods implemented in Python-based tools such as Dipy and Nilearn.
+
 ## Data and Tools to Use 
-Publicly available datasets on college-level athletes
+Publicly available dataset on college-level athletes
+
+Information about Dataset:
+https://www.nature.com/articles/s41597-021-00823-z
+
+Link to download the dataset:
+https://brainlife.io/pub/5f2c3765beafe924c962dd8d
 
 Python, FSLVBM, Nilearn, Dipy
 
