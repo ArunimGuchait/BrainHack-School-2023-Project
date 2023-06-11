@@ -81,23 +81,49 @@ OUTPUT
 
 **Vertex Analysis**
 > Automated segmentation of subcortical structures in the brain has been completed using FSL FIRST [a model-based segmentation/registration tool] tool for the following brain regions:
-- Left-Thalamus-Proper
+- Left-Thalamus
 - Left-Caudate
 - Left-Putamen
 - Left-Pallidum
 - Brain-Stem /4th Ventricle
 - Left-Hippocampus
 - Left-Amygdala
-- Left-Accumbens-area
-- Right-Thalamus-Proper
+- Left-Accumbens
+- Right-Thalamus
 - Right-Caudate
 - Right-Putamen
 - Right-Pallidum
 - Right-Hippocampus
 - Right-Amygdala
-- Right-Accumbens-area
+- Right-Accumbens
 
-### Things to do:
+OUTPUT
+
+![Vertex_Analysis](Images/001.png)
+
+Using this vertex analysis, marked differences in shape have been found in the two following areas: 
+
+[1] Left-Putamen
+
+![Vertex_Analysis](Images/L_Puta_first_02.png)
+
+[2] Left-Thalamus
+
+![Vertex_Analysis](Images/L_Thal_first.png)
+
+IMPORTANT
+All the analyses and codes have been documented in the two following notebooks:
+- Results/fslvbm_analysis_american_football.ipynb
+- Results/fsl_FIRST_analysis_american_football.ipynb
+
+However, due to the large size of the images, once you try to open them in GitHub, it may show that "The notebook took too long to render". In that case, you may download the raw file and open them in VS Code or Jupyter Notebook. Else, I'm providing here the links to these two notebooks in the Google Colab:
+- fslvbm_analysis_american_football.ipynb
+  - https://colab.research.google.com/drive/1vhhklbIwlF43ZjesHvKfJq0AFG5USa2b?usp=sharing
+- fsl_FIRST_analysis_american_football.ipynb
+  - https://colab.research.google.com/drive/1i51mnQyyXjHEzhikUBsRbwfXv_k-wLHr?usp=sharing
+Thank you. 
+
+### Future Work
 **dMRI Analysis in Python**
 > White matter connectivity will be explored using tractography methods implemented in Python-based tools such as Dipy and Nilearn.
 
@@ -110,22 +136,17 @@ OUTPUT
 ### Tools / Tutorials 
 **FSLVBM**
 
-[1] https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSLVBM
-
-[2] https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSLVBM/UserGuide
-
-[3] https://www.youtube.com/watch?v=L1B3Wm-wnyQ&ab_channel=FSLCourse
+1. https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSLVBM
+2. https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSLVBM/UserGuide
+3. https://www.youtube.com/watch?v=L1B3Wm-wnyQ&ab_channel=FSLCourse
 
 **dMRI Analysis in Python**
 
-[1] https://school-brainhack.github.io/modules/dmri_intro/
-
-[2] https://davi1990.github.io/talks/2021-11-05-dMRI_analysis_in_Python
-
-[3] https://carpentries-incubator.github.io/SDC-BIDS-dMRI/aio/index.html
+1. https://school-brainhack.github.io/modules/dmri_intro/
+2. https://davi1990.github.io/talks/2021-11-05-dMRI_analysis_in_Python
+3. https://carpentries-incubator.github.io/SDC-BIDS-dMRI/aio/index.html
 
 **Relevant Research Papers**
 
-[1] https://www.frontiersin.org/articles/10.3389/fnhum.2014.00594/full
-
-[2] https://www.sciencedirect.com/science/article/pii/S0960982214009798
+1. https://www.frontiersin.org/articles/10.3389/fnhum.2014.00594/full
+2. https://www.sciencedirect.com/science/article/pii/S0960982214009798
