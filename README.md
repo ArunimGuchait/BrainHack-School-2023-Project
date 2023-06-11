@@ -144,7 +144,7 @@ During the BrainHack School Project, I learned the following tools:
 ## Conclusion and acknowledgement
 Regarding the project, there are some promising results I've got. The short time at BrainHack School is overwhelming and challenging. But I am pleased with the new skills and knowledge I have gained throughout the program. I'll continue working on this project and try to investigate more athletes from different types of sports. 
 
-I am grateful for the opportunity to participate in the BrainHack School Project. I sincerely thank all the instructors and TAs from the Taiwan hub who have generously shared their expertise and provided guidance and support throughout the program. Thank you so much for this amazing opportunity.
+I sincerely thank my advisor Prof. Neil Muggleton and all the instructors and TAs (special shout-out to the Taiwan Hub) who have generously shared their expertise and provided guidance and support throughout the program. Thank you so much for this amazing opportunity.
 
 ![BrainHack School logo](Images/images.jfif)
 ![NCU logo](Images/images.png)
