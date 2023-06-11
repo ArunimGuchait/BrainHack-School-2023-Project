@@ -63,6 +63,22 @@ Showing the local differences in grey matter volume between the two groups:
 
 ![VBM_Analysis](Images/010.png)
 
+To obtain statistical data, identify the region of significant difference and validate that:
+
+[1] E2 - Running randomise and displaying cluster-based thresholding results
+> Reference: https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSLVBM/UserGuide
+
+OUTPUT
+
+![VBM_Analysis](Images/011.png)
+
+[2] Reporting Cluster Information
+> Reference: https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/Cluster#reporting
+
+OUTPUT
+
+![VBM_Analysis](Images/012.png)
+
 **Vertex Analysis**
 > Automated segmentation of subcortical structures in the brain has been completed using FSL FIRST [a model-based segmentation/registration tool]
 
@@ -70,10 +86,7 @@ Showing the local differences in grey matter volume between the two groups:
 **dMRI Analysis in Python**
 > White matter connectivity will be explored using tractography methods implemented in Python-based tools such as Dipy and Nilearn.
 
-## Data and Tools to Use 
 
-
-Project deliverables
 
 ![BrainHack School logo](Images/images.jfif)
 ![NCU logo](Images/images.png)
