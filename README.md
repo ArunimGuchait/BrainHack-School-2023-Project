@@ -123,13 +123,25 @@ However, due to the large size of the images, once you try to open them in GitHu
   - https://colab.research.google.com/drive/1vhhklbIwlF43ZjesHvKfJq0AFG5USa2b?usp=sharing
 - fsl_FIRST_analysis_american_football.ipynb
   - https://colab.research.google.com/drive/1i51mnQyyXjHEzhikUBsRbwfXv_k-wLHr?usp=sharing
+
 Thank you. 
 
 ### Future Work
 **dMRI Analysis in Python**
 > White matter connectivity will be explored using tractography methods implemented in Python-based tools such as Dipy and Nilearn.
 
+### Tools I learned during this project
 
+During the BrainHack School Project, I learned the following tools:
+
+* **Python:** I learned how to use Python to analyse and manipulate data.
+* **FSLVBM:** I learned how to operate FSLVBM to analyse grey matter volume differences between groups.
+* **Nilearn:** I learned how to utilise Nilearn to perform functional MRI analysis and visualise data.
+* **Dipy:** I learned how to use Dipy to perform diffusion MRI analysis and tractography.
+* **Git and Github:** I learned how to use Git and Github for version control and collaboration.
+* **Bash Terminal:** I learned how to employ the Bash Terminal to navigate and manipulate files and directories.
+* **FSL FIRST tool:** I learned how to utilise the FSL FIRST tool for subcortical segmentation.
+* **Google Colab and Jupyter Notebook:** I learned how to use Google Colab and Jupyter Notebook for interactive coding and data analysis.
 
 ![BrainHack School logo](Images/images.jfif)
 ![NCU logo](Images/images.png)
