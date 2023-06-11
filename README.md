@@ -49,10 +49,19 @@ At the end of this project, these files will be made available:
 
 **Data Preprocessing**
 > MRI data have been preprocessed using FSL tools.
+
 ![Data Preprocessing](Images/005.png)
 
 **Voxel-Based Morphometry (VBM) Analysis**
 > Grey matter volume differences between athletes and non-athletes have been investigated using FSLVBM [FMRIB's Software Library - Voxel-Based Morphometry]
+
+OUTPUT
+
+NonAth>AmFB
+
+Showing the local differences in grey matter volume between the two groups:
+
+![VBM_Analysis](Images/010.png)
 
 **Vertex Analysis**
 > Automated segmentation of subcortical structures in the brain has been completed using FSL FIRST [a model-based segmentation/registration tool]
