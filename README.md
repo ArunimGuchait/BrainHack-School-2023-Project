@@ -80,7 +80,22 @@ OUTPUT
 ![VBM_Analysis](Images/012.png)
 
 **Vertex Analysis**
-> Automated segmentation of subcortical structures in the brain has been completed using FSL FIRST [a model-based segmentation/registration tool]
+> Automated segmentation of subcortical structures in the brain has been completed using FSL FIRST [a model-based segmentation/registration tool] tool for the following brain regions:
+- Left-Thalamus-Proper
+- Left-Caudate
+- Left-Putamen
+- Left-Pallidum
+- Brain-Stem /4th Ventricle
+- Left-Hippocampus
+- Left-Amygdala
+- Left-Accumbens-area
+- Right-Thalamus-Proper
+- Right-Caudate
+- Right-Putamen
+- Right-Pallidum
+- Right-Hippocampus
+- Right-Amygdala
+- Right-Accumbens-area
 
 ### Things to do:
 **dMRI Analysis in Python**
