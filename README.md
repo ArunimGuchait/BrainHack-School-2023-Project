@@ -143,6 +143,11 @@ During the BrainHack School Project, I learned the following tools:
 * **FSL FIRST tool:** I learned how to utilise the FSL FIRST tool for subcortical segmentation.
 * **Google Colab and Jupyter Notebook:** I learned how to use Google Colab and Jupyter Notebook for interactive coding and data analysis.
 
+## Conclusion and acknowledgement
+Regarding the project, there are some promising results I've got. The short time at BrainHack School is overwhelming and challenging. But I am pleased with the new skills and knowledge I have gained throughout the program. I'll continue working on this project and try to investigate more athletes from different types of sports. 
+
+I am grateful for the opportunity to participate in the BrainHack School Project. I sincerely thank all the instructors and TAs from the Taiwan hub who have generously shared their expertise and provided guidance and support throughout the program. Thank you for this amazing opportunity, and I look forward to applying the skills and knowledge I have gained in my future research endeavours.
+
 ![BrainHack School logo](Images/images.jfif)
 ![NCU logo](Images/images.png)
 
