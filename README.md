@@ -81,6 +81,7 @@ OUTPUT
 
 **Vertex Analysis**
 > Automated segmentation of subcortical structures in the brain has been completed using FSL FIRST [a model-based segmentation/registration tool] tool for the following brain regions:
+```
 - Left-Thalamus
 - Left-Caudate
 - Left-Putamen
@@ -96,7 +97,7 @@ OUTPUT
 - Right-Hippocampus
 - Right-Amygdala
 - Right-Accumbens
-
+```
 OUTPUT
 
 ![Vertex_Analysis](Images/001.png)
@@ -112,8 +113,8 @@ Using this vertex analysis, marked differences in shape have been found in the t
 ![Vertex_Analysis](Images/L_Thal_first.png)
 
 IMPORTANT
-
-> All the analyses and codes have been documented in the two following notebooks:
+```
+All the analyses and codes have been documented in the two following notebooks:
 - Results/fslvbm_analysis_american_football.ipynb
 - Results/fsl_FIRST_analysis_american_football.ipynb
 
@@ -123,7 +124,7 @@ However, due to the large size of the images, once you try to open them in GitHu
 - fsl_FIRST_analysis_american_football.ipynb
   - https://colab.research.google.com/drive/1i51mnQyyXjHEzhikUBsRbwfXv_k-wLHr?usp=sharing
 Thank you. 
-
+```
 ### Future Work
 **dMRI Analysis in Python**
 > White matter connectivity will be explored using tractography methods implemented in Python-based tools such as Dipy and Nilearn.
