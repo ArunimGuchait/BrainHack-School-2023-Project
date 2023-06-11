@@ -112,7 +112,8 @@ Using this vertex analysis, marked differences in shape have been found in the t
 ![Vertex_Analysis](Images/L_Thal_first.png)
 
 IMPORTANT
-All the analyses and codes have been documented in the two following notebooks:
+
+> All the analyses and codes have been documented in the two following notebooks:
 - Results/fslvbm_analysis_american_football.ipynb
 - Results/fsl_FIRST_analysis_american_football.ipynb
 
