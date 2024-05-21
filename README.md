@@ -4,6 +4,10 @@
 **Keywords:**
 fMRI, FSLVBM, dMRI Analysis in Python
 
+### Project Publication
+This project has been published as part of the BrainHack School. You can view the project at the following link:
+https://school-brainhack.github.io/project/arunim_guchait_project/
+
 ## Project definition
 
 ### Background
